@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**dev-daniel-amorim/dev-daniel-amorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    const whoami = {
+        name: "Daniel de Souza Amorim",
+        website: "[ptp28.github.io](https://github.com/dev-daniel-amorim)",
+        askMeAbout: ["tech", "phyton", "love dev", "family"],
+        technologies: {
+            languages: ["C", "C++", "Assembly", "Python"],
+            mobileApp: ["Android", "iOS"],
+            frameworks: ["Kivy", "kivyMD", "Django"],
+            frontend: ["HTML", "Javascript", "CSS"],
+            misc: ["Firebase", "MySQL", "DataScience", "MachineLearning", "Arduino", "microcontroller", "embedded devices"]
+        }
+    };

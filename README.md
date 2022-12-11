@@ -1,7 +1,7 @@
 
     const whoami = {
         name: "Daniel de Souza Amorim",
-        website: "[ptp28.github.io](https://github.com/dev-daniel-amorim)",
+        website: "[https://github.com/dev-daniel-amorim)",
         askMeAbout: ["tech", "phyton", "love dev", "family"],
         technologies: {
             languages: ["C", "C++", "Assembly", "Python"],

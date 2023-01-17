@@ -1,12 +1,3 @@
-const whoami = {
-    name: "Daniel de Souza Amorim",
-    website: "[https://github.com/dev-daniel-amorim)",
-    askMeAbout: ["tech", "phyton", "love dev", "family"],
-    technologies: {
-        languages: ["C", "C++", "Assembly", "Python"],
-        mobileApp: ["Android", "iOS"],
-        frameworks: ["Kivy", "kivyMD", "Django"],
-        frontend: ["HTML", "Javascript", "CSS"],
-        misc: ["Firebase", "MySQL", "DataScience", "MachineLearning", "Arduino", "microcontroller", "embedded devices"]
-    }
-};
+Projetos Data Science:
+
+<a href='https://github.com/dev-daniel-amorim/Data_science-Analise-de-risco'> Análise de risco </a>

@@ -12,9 +12,8 @@
 
 <a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping'> Coletando dados com Web Scraping </a><br>
 <a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs'> Coleta de dados com APIs </a><br>
-<a href='#'> </a><br>
 
 ### Tratamento de dados
 
 <a href='https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies'> Variáveis Dummies </a><br>
-
+<a href='#'> </a><br>

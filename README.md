@@ -1,7 +1,7 @@
 
 ### Ferramentas de análise de dados:
 
-<a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Ferramentas Pandas </a><br>
+<a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>
 
 ### Projetos Data Science:
 

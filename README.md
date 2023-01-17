@@ -16,4 +16,4 @@
 ### Tratamento de dados:
 
 <a href='https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies'> Variáveis Dummies </a><br>
-<a href='#'> </a><br>
+<a href='https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md'> Balanceamento de classes </a><br>

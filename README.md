@@ -17,6 +17,10 @@
 <a href='https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies'> Variáveis Dummies </a><br>
 <a href='https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md'> Balanceamento de classes </a><br>
 
+### Machine Learning
+
+<a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Técnicas de Machine Learning (HoldOut/Cross Validation </a>
+
 ### Ferramentas de análise de dados:
 
 <a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>

@@ -19,7 +19,7 @@
 
 ### Machine Learning:
 
-<a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Técnicas de Machine Learning (HoldOut/Cross Validation) </a>
+<a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Validação cruzada/Cross Validation (Métodos) </a>
 
 ### Ferramentas de análise de dados:
 

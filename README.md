@@ -28,4 +28,4 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 
 
-Frase: "Não há limites para uma mente sedenta por conhecimentos!"
+<footer>Frase: "Não há limites para uma mente sedenta por conhecimentos!"</footer>

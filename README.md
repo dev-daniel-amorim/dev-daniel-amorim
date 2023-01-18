@@ -1,5 +1,5 @@
 # Sobre mim:
-<strong><h3>Daniel S. Amorim</h3></strong>
+<h3>Daniel S. Amorim</h3>
 Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnolgias, criei um sistema de automação sem fio próprio (embarcado), e hoje me dedico ao Data Science. Neste repositório compartilho com vocês meus projetos e estudos, fiquem a vontade para explorar, contribuir, somar, dividir, multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
 <hr>
 
@@ -27,5 +27,3 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 <a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>
 
 
-
-<footer>Frase: "Não há limites para uma mente sedenta por conhecimentos!"</footer>

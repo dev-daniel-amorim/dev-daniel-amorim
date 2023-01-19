@@ -22,6 +22,12 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 <a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Holdout/Cross Validation (Métodos) </a>
 
+<hr>
+
+### Análise de dados:
+
+[Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Projeto_Insights_01)
+
 ### Ferramentas de análise de dados:
 
 <a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>

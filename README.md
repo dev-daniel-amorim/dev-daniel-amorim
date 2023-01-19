@@ -22,7 +22,6 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 <a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Holdout/Cross Validation (Métodos) </a>
 
-<hr>
 
 ## Análise de dados:
 

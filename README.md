@@ -24,7 +24,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ## Análise de dados:
 
-- [Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Projeto_Insights_01)
+- [Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Insights_01)
 - [Projeto insights (02)](https://github.com/dev-daniel-amorim/AD-Insights_02)
 
 ### Ferramentas de análise de dados:

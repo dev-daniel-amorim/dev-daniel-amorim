@@ -20,7 +20,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ### Machine Learning:
 
-<a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Validação cruzada/Cross Validation (Métodos) </a>
+<a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Holdout/Cross Validation (Métodos) </a>
 
 ### Ferramentas de análise de dados:
 

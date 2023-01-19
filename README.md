@@ -5,23 +5,22 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ## Projetos Data Science:
 
-- <a href='https://github.com/dev-daniel-amorim/Data_science-Analise-de-risco'> Análise de risco </a><br>
-- <a href='https://github.com/dev-daniel-amorim/DS-Machine_learning'> Preços de imóveis no RJ </a><br>
+- [Análise de risco](https://github.com/dev-daniel-amorim/Data_science-Analise-de-risco)
+- [Preços de imóveis no RJ](https://github.com/dev-daniel-amorim/DS-Machine_learning)
 
 ### Coleta de dados:
 
-- <a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping'> Coletando dados com Web Scraping </a><br>
-- <a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs'> Coleta de dados com APIs </a><br>
+- [Coletando dados com Web Scraping](https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping)
+- [Coleta de dados com APIs](https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs)
 
 ### Tratamento de dados:
 
-- <a href='https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies'> Variáveis Dummies </a><br>
-- <a href='https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md'> Balanceamento de classes </a><br>
+- [Variáveis Dummies](https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies)
+- [Balanceamento de classes](https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md)
 
 ### Machine Learning:
 
-- <a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Holdout/Cross Validation (Métodos) </a>
-
+- [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
 
 ## Análise de dados:
 
@@ -29,6 +28,5 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ### Ferramentas de análise de dados:
 
-- <a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>
-
+- [Pandas (Ferramentas essênciais)](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
 

@@ -10,25 +10,25 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ### Coleta de dados:
 
-<a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping'> Coletando dados com Web Scraping </a><br>
-<a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs'> Coleta de dados com APIs </a><br>
+- <a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping'> Coletando dados com Web Scraping </a><br>
+- <a href='https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs'> Coleta de dados com APIs </a><br>
 
 ### Tratamento de dados:
 
-<a href='https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies'> Variáveis Dummies </a><br>
-<a href='https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md'> Balanceamento de classes </a><br>
+- <a href='https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies'> Variáveis Dummies </a><br>
+- <a href='https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md'> Balanceamento de classes </a><br>
 
 ### Machine Learning:
 
-<a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Holdout/Cross Validation (Métodos) </a>
+- <a href='https://github.com/dev-daniel-amorim/ML-Tecnicas'> Holdout/Cross Validation (Métodos) </a>
 
 
 ## Análise de dados:
 
-[Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Projeto_Insights_01)
+- [Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Projeto_Insights_01)
 
 ### Ferramentas de análise de dados:
 
-<a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>
+- <a href='https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas'> Pandas (Ferramentas essênciais)</a><br>
 
 

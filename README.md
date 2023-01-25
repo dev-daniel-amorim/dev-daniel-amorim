@@ -32,6 +32,10 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 - [Pandas (Ferramentas essênciais)](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
 
+## Estatística
+
+- [Estatística em análise de dados - 01](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/README.md)
+
 ## Automação (Selenium)
 
 - [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)

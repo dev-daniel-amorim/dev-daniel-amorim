@@ -5,7 +5,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ## Projetos Data Science:
 
-- [Análise de risco](https://github.com/dev-daniel-amorim/Data_science-Analise-de-risco)
+- [Análise de risco](https://github.com/dev-daniel-amorim/Data_science-Analise-de-risco/blob/main/README.md)
 - [Preços de imóveis no RJ](https://github.com/dev-daniel-amorim/DS-Machine_learning)
 
 ### Coleta de dados:

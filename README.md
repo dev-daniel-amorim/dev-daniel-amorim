@@ -1,6 +1,6 @@
 # Sobre mim:
 <h3>Daniel S. Amorim</h3>
-Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnolgias, criei um sistema de automação sem fio próprio (embarcado) ultilizando microcontrolador ATMEL ATMega2560 e tecnologia zigbee, e hoje me dedico ao Data Science. Neste repositório compartilho com vocês meus projetos e estudos, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
+Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias, criei um sistema de automação sem fio próprio (embarcado) ultilizando microcontrolador ATMEL ATMega2560 e tecnologia zigbee, e hoje me dedico ao Data Science. Neste repositório compartilho com vocês meus projetos e estudos, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
 <hr>
 
 ## Projetos Data Science:

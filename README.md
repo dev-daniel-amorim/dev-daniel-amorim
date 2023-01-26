@@ -24,7 +24,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 - [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
 
-## Análise de dados:
+## Projetos Análise de dados:
 
 - [Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Insights_01)
 - [Projeto insights (02)](https://github.com/dev-daniel-amorim/AD-Insights_02)
@@ -33,10 +33,6 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 ### Ferramentas de análise de dados:
 
 - [Pandas (Ferramentas essênciais)](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
-
-## Estatística
-
-- [Estatística em análise de dados - 01](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/README.md)
 
 ## Automação (Selenium)
 

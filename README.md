@@ -16,7 +16,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 ### Tratamento de dados:
 
-- [Estatística para tratamento de dados (Identificando outliers)](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/README.md)
+- [Estatística para análise de dados](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/README.md)
 - [Variáveis Dummies](https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies)
 - [Balanceamento de classes](https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md)
 

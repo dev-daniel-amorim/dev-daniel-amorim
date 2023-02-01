@@ -18,7 +18,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 - [Estatística para análise de dados](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/README.md)
 - [Variáveis Dummies (Label e OneHot Encoder)](https://github.com/dev-daniel-amorim/DS-Variaveis_Dummies)
-- [Balanceamento de classes](https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md)
+- [Balanceamento de classes (Under e Oversampling)](https://github.com/dev-daniel-amorim/DS-Balanceamento_de_classes/blob/main/README.md)
 - [Redimensionamento dos dados (normalização/padronização)](https://github.com/dev-daniel-amorim/AD-Norm_Padron/blob/main/README.md)
 
 ### Machine Learning:

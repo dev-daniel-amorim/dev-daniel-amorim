@@ -11,6 +11,8 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 ### Data Science (Regressão)
 - [Preços de imóveis no RJ](https://github.com/dev-daniel-amorim/DS-Machine_learning)
 
+## Etapas do data science (tutoriais)
+
 ### Coleta de dados:
 
 - [Coletando dados com Web Scraping](https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping)

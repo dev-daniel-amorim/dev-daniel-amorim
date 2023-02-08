@@ -24,6 +24,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 ### Machine Learning:
 
 - [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
+- [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
 
 ## Projetos Análise de dados:
 

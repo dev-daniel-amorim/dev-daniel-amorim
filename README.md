@@ -1,8 +1,13 @@
 # Sobre mim:
 <h3>Daniel S. Amorim</h3>
 Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias, criei um sistema de automação sem fio próprio (embarcado) ultilizando microcontrolador ATMEL ATMega2560 e tecnologia zigbee, e hoje me dedico ao Data Science e análise de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre o assunto, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
-[![medium](https://user-images.githubusercontent.com/115194365/218147057-79f27ca6-248a-4ada-9499-d1039b1efe9c.jpg)
-](https://medium.com/@dev.daniel.amorim)
+
+[![in](https://user-images.githubusercontent.com/115194365/218149812-af1761ae-4954-4fd7-979b-c9a4115accec.jpg)
+](https://www.linkedin.com/feed/)
+[![medium](https://user-images.githubusercontent.com/115194365/218150242-dfcd7187-7273-4151-af0b-4de0b176c0e0.jpg)
+](https://medium.com/@dev.daniel.amorim) 
+
+
 <hr>
 
 # Projetos e tutoriais data science

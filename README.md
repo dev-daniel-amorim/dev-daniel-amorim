@@ -13,7 +13,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 # SQL Server
 - [Tutoriais SQL](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
-# Projetos e tutoriais data science
+# Projetos data science
 
 ### Data Science (Classificação)
 - [Análise de risco](https://github.com/dev-daniel-amorim/DS-Analise_de_risco_II/blob/main/README.md)

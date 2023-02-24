@@ -1,6 +1,6 @@
 # Sobre mim:
 <h3>Daniel S. Amorim</h3>
-Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias, e hoje me dedico ao Data Science e análise de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados ao DS, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
+Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias e hoje me dedico ao Data Science e análise de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados ao DS, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
 <br>
 
 [![li](https://user-images.githubusercontent.com/115194365/221064347-2e009203-558e-45ef-b528-3cc0d588eb83.jpg)

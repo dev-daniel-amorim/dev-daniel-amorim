@@ -1,12 +1,14 @@
 # Sobre mim:
 <h3>Daniel S. Amorim</h3>
-Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias, criei um sistema de automação sem fio próprio (embarcado) ultilizando microcontrolador ATMEL ATMega2560 e tecnologia zigbee, e hoje me dedico ao Data Science e análise de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre o assunto, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
+Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias, e hoje me dedico ao Data Science e análise de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados ao DS, fiquem a vontade para explorar, contribuir, somar, dividir e multiplicar os conhecimentos e se quiser entrar em contato terei enorme satisfação em ensinar e aprender!
 <br>
 
 [![li](https://user-images.githubusercontent.com/115194365/221064347-2e009203-558e-45ef-b528-3cc0d588eb83.jpg)
 ](https://www.linkedin.com/feed/)
-[![medium](https://user-images.githubusercontent.com/115194365/218150242-dfcd7187-7273-4151-af0b-4de0b176c0e0.jpg)
-](https://medium.com/@dev.daniel.amorim) 
+[![me](https://user-images.githubusercontent.com/115194365/221065335-fbc8ab66-ddcf-4ad8-a268-029139925b56.jpg)
+](https://medium.com/@dev.daniel.amorim)
+[![yt](https://user-images.githubusercontent.com/115194365/221065547-df25300d-b7b4-4f09-a2bf-669f13093449.jpg)
+](https://www.youtube.com/@dsa_science)
 
 
 <hr>

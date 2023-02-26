@@ -13,7 +13,12 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 <hr>
 
 # SQL Server
-- [Tutoriais SQL](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+- SQL Queries:
+  - [Aula I](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)
+  - [Aula II](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)
+  - [Aula III](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)
+- SQL Views
+  - [SQL criar/usar views](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90)
 
 # Projetos data science
 

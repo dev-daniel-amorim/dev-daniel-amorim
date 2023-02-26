@@ -18,7 +18,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
   - [Aula II](https://medium.com/@dev.daniel.amorim/sql-do-principio-ao-fim-parte-ii-5287b169eb0c)
   - [Aula III](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)
 - SQL Views
-  - [SQL criar/usar views](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90)
+  - [SQL criar, bloquear, restringir e comandos DML's com views](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90)
 
 # Projetos data science
 

@@ -20,7 +20,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 - SQL Views
   - [SQL Views (criar, bloquear, restringir e comandos DML's)](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90)
 - SQL Functions
-  - [Funções SQL (Tipos, estrutura das funções e aplicações](https://medium.com/@dev.daniel.amorim/sql-functions-c8841b80e640)
+  - [Funções com SQL (Tipos, estrutura das funções e aplicações)](https://medium.com/@dev.daniel.amorim/sql-functions-c8841b80e640)
 
 # Projetos data science
 

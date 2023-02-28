@@ -19,6 +19,8 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
   - [Aula III (Inner join, Left join, Right Join, Full outer Join, subqueries e UNION)](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-iii-173b491e377d)
 - SQL Views
   - [SQL Views (criar, bloquear, restringir e comandos DML's)](https://medium.com/@dev.daniel.amorim/sql-views-ac1d5fc62c90)
+- SQL Functions
+  - [Funções SQL (Tipos, estrutura das funções e aplicações](https://medium.com/@dev.daniel.amorim/sql-functions-c8841b80e640)
 
 # Projetos data science
 

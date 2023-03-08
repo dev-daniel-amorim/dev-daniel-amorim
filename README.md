@@ -12,10 +12,6 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 <hr>
 
-### Últimos posts no Medium:
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 # SQL Server
 - SQL Queries:
   - [Aula I (Construindo consultas, funções de ordenação e agregação)](https://medium.com/@dev.daniel.amorim/sql-do-princ%C3%ADpio-ao-fim-parte-i-ee9ea4b11652)

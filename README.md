@@ -38,7 +38,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 - [Coletando dados com Web Scraping](https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping)
 - [Coleta de dados com APIs](https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs)
-- [Coleta de dados (SQL e PyODBC)](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL)
+- [Coleta de dados (SQL e PyODBC)](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server)
 
 ### Tratamento de dados:
 
@@ -66,4 +66,8 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 - [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)
 - [Automação Web](https://github.com/dev-daniel-amorim/DS-Automacao_web)
+
+# Extras
+
+- [Conectando SQL Server com Jupyter Notebook usando biblioteca Pyodbc](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server)
 

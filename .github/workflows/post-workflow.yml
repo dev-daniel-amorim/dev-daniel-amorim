@@ -19,4 +19,4 @@ jobs:
 	- uses: gautamkrishnar/blog-post-workflow@v1
         with:
 		comment_tag_name: YOUTUBE
-          	feed_list: "http://gdata.youtube.com/feeds/api/users/@dsa_science/uploads"
+          	feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCehclUNu2kEJSLXGu29sOmQ"

@@ -12,7 +12,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 
 <hr>
 
-# Últimos posts no Medium:
+### Últimos posts no Medium:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

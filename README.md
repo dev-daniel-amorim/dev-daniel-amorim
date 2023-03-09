@@ -1,6 +1,9 @@
 <h3>Daniel S. Amorim</h3>
-Formado em engenharia de computação, pós-graduado em engenharia de petróleo e gás natural e atualmente cursando pós-graduação em data science. Sou amante de tecnologias e hoje me dedico ao Data Science e Análise de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados, fiquem a vontade para explorar, se quiser entrar em contato terei enorme satisfação em dividir conhecimentos!
+Graduado em engenharia da computação, apaixonado por dados desde criançinha (rs), hoje me dedico em tempo integral à Ciência de dados, possuo habilidades em Python e bibliotecas relevantes para análise, visualização, exploração, modelagem e mineração de dados além dos conhecimentos em linguagem SQL e outros conhecimentos que somam. Tenho pensamento analítico capaz de analisar dados complexos para geração de insights e possíveis tomadas de decisões de negócios. Estou sempre em busca de conhecimentos, novas técnicas e tecnologias, meu currículo inclui pós-graduação (em andamento) em engenharia e ciência de dados, neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados, sejam bem-vindos!
 <br>
+"Conhecimentos quanto mais se divide mais se multiplica!"
+<br>
+<hr>
 
 [![li](https://user-images.githubusercontent.com/115194365/221064347-2e009203-558e-45ef-b528-3cc0d588eb83.jpg)
 ](https://www.linkedin.com/feed/)

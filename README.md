@@ -13,7 +13,7 @@ Formado em engenharia de computação, pós-graduado em engenharia de petróleo 
 <hr>
 
 # SQL Server
-[Acesse aqui conteúdos SQL dedicados a análise de dados](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+[Acesse aqui meus conteúdos SQL dedicados a análise de dados](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 # Projetos data science
 

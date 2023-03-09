@@ -3,6 +3,7 @@ Graduado em engenharia da computação, apaixonado por dados desde criancinha (r
 <br>
 <p align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</p>
 <br>
+Me acompanhe nas redes:
 <hr>
 
 [![li](https://user-images.githubusercontent.com/115194365/221064347-2e009203-558e-45ef-b528-3cc0d588eb83.jpg)

@@ -27,7 +27,7 @@ Me acompanhe nas redes:
 ### Data Science (Regressão)
 - [Preços de imóveis no RJ](https://github.com/dev-daniel-amorim/DS-Machine_learning)
 
-## Etapas do data science (tutoriais)
+## Etapas do data science
 
 ### Coleta de dados:
 

@@ -17,7 +17,7 @@ Me acompanhe nas redes:
 <hr>
 
 # SQL Server
-- [Acesse aqui conteúdos sobre SQL (tutoriais do básico ao avançado)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+- [Acesse aqui meus conteúdos sobre SQL (tutoriais do básico ao avançado)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 # Projetos data science
 

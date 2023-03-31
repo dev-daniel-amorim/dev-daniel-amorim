@@ -19,6 +19,9 @@ Me acompanhe nas redes:
 # SQL Server
 - [Acesse aqui meus conteúdos sobre SQL (tutoriais do básico ao avançado)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
+# Python
+- [Conteúdos sobre Selenium (Web Scraping)]()
+
 # Projetos data science
 
 ### Data Science (Classificação)

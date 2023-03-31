@@ -34,7 +34,6 @@ Me acompanhe nas redes:
 
 ### Coleta de dados:
 
-- [Coletando dados com Web Scraping](https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping)
 - [Coleta de dados com APIs](https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs)
 - [Coleta de dados (SQL e PyODBC)](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server)
 

@@ -20,7 +20,8 @@ Me acompanhe nas redes:
 - [Acesse aqui meus conteúdos sobre SQL (tutoriais do básico ao avançado)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 # Python
-- [Conteúdos sobre Selenium (Web Scraping)](https://github.com/dev-daniel-amorim/Python-Selenium)
+- [Selenium - Web Scraping](https://github.com/dev-daniel-amorim/Python-Selenium)
+- [Selenium - Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
 
 # Projetos data science
 

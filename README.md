@@ -21,10 +21,10 @@ Me acompanhe nas redes:
 
 # Python
   ### Selenium:
-  - [Selenium - Web Scraping](https://github.com/dev-daniel-amorim/Python-Selenium)
+  - [Web Scraping](https://github.com/dev-daniel-amorim/Python-Selenium)
   
   ### Automação de processos:
-- [Selenium - Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
+- [Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
 
 # Projetos data science
 

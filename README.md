@@ -24,7 +24,12 @@ Me acompanhe nas redes:
   - [Web Scraping](https://github.com/dev-daniel-amorim/Python-Selenium)
   
   ### Automação de processos:
-- [Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
+  - [Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
+
+  ### Pandas (análise de dados)
+  - [Ferramentas essênciais](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
+
+
 
 # Projetos data science
 
@@ -59,9 +64,6 @@ Me acompanhe nas redes:
 - [Projeto insights (02)](https://github.com/dev-daniel-amorim/AD-Insights_02)
 - [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)
 
-# Pandas (análise de dados)
-
-- [Pandas (Ferramentas essênciais)](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
 
 # Selenium (automação de processos)
 

@@ -65,11 +65,6 @@ Me acompanhe nas redes:
 - [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)
 
 
-# Selenium (automação de processos)
-
-- [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)
-- [Automação Web](https://github.com/dev-daniel-amorim/DS-Automacao_web)
-
 # Extras
 
 - [Conectando SQL Server com Jupyter Notebook usando biblioteca Pyodbc](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server)

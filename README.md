@@ -67,5 +67,5 @@ Me acompanhe nas redes:
 
 # Extras
 
-- [Conectando SQL Server com Jupyter Notebook usando biblioteca Pyodbc](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server)
+- [Aulas extras](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 

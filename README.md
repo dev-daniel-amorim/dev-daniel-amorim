@@ -22,7 +22,7 @@ Me acompanhe nas redes:
 # Python
   - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Python-Selenium)
 
-  - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
+  - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   
   - [Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
 

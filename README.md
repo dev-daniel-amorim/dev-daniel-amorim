@@ -17,19 +17,17 @@ Me acompanhe nas redes:
 <hr>
 
 # SQL Server
-- [Acesse aqui meus conteúdos sobre SQL (tutoriais do básico ao avançado)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+  - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 # Python
-  ### Selenium:
-  - [Web Scraping](https://github.com/dev-daniel-amorim/Python-Selenium)
+  - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Python-Selenium)
+
+  - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
   
-  ### Automação de processos:
   - [Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
 
-  ### Pandas (análise de dados)
-  - [Ferramentas essênciais](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas)
-
-
+# Extras
+  - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 
 # Projetos data science
 
@@ -64,8 +62,4 @@ Me acompanhe nas redes:
 - [Projeto insights (02)](https://github.com/dev-daniel-amorim/AD-Insights_02)
 - [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)
 
-
-# Extras
-
-- [Aulas extras](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 

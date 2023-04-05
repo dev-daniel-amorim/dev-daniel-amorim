@@ -24,7 +24,7 @@ Me acompanhe nas redes:
 
   - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   
-  - [Automação de processos](https://github.com/dev-daniel-amorim/Selenium-Automacao_de_processos/blob/main/README.md)
+  - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
 
 # Extras
   - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)

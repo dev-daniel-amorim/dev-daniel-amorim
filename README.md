@@ -21,7 +21,7 @@ Me acompanhe nas redes:
   - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 # Python
-  - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Python-Selenium)
+  - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
 
   - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   

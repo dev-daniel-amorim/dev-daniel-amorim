@@ -56,11 +56,3 @@ Me acompanhe nas redes:
 
 - [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
 - [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
-
-# Projetos Análise de dados:
-
-- [Projeto insights (01)](https://github.com/dev-daniel-amorim/AD-Insights_01)
-- [Projeto insights (02)](https://github.com/dev-daniel-amorim/AD-Insights_02)
-- [Análise de dados + automação de processos](https://github.com/dev-daniel-amorim/AD-Automacao_de_processos/blob/main/README.md)
-
-

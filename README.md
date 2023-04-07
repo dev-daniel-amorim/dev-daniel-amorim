@@ -30,7 +30,7 @@ Me acompanhe nas redes:
 # Extras
   - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 
-# Projetos data science
+# Data science
 
 ### Data Science (Classificação)
 - [Análise de risco](https://github.com/dev-daniel-amorim/DS-Analise_de_risco_II/blob/main/README.md)

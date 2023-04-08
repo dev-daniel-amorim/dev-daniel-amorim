@@ -43,7 +43,6 @@ Me acompanhe nas redes:
 ### Coleta de dados:
 
 - [Coleta de dados com APIs](https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs)
-- [Coleta de dados (SQL e PyODBC)](https://github.com/dev-daniel-amorim/PyODBC-Integracao_python_SQL-Server)
 
 ### Tratamento de dados:
 

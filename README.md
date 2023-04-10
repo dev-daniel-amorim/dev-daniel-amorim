@@ -28,7 +28,7 @@ Me acompanhe nas redes:
   - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
 
 ## Chat GPT
-  - [Integração com Python]()
+  - [Integração com Python](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
 
 ## Extras
   - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)

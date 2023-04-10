@@ -17,23 +17,23 @@ Me acompanhe nas redes:
 
 <hr>
 
-# SQL Server
+## SQL Server
   - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
-# Python
+## Python
   - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
 
   - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   
   - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
 
-# Chat GPT
+## Chat GPT
   - [Integração com Python]()
 
-# Extras
+## Extras
   - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 
-# Data science
+## Data science
 
 ### Data Science (Classificação)
 - [Análise de risco](https://github.com/dev-daniel-amorim/DS-Analise_de_risco_II/blob/main/README.md)

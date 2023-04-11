@@ -7,21 +7,21 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 Me acompanhe nas redes:
 <hr>
 
-[![li](https://user-images.githubusercontent.com/115194365/221064347-2e009203-558e-45ef-b528-3cc0d588eb83.jpg)
-](https://www.linkedin.com/feed/)
-[![me](https://user-images.githubusercontent.com/115194365/221065335-fbc8ab66-ddcf-4ad8-a268-029139925b56.jpg)
-](https://medium.com/@dev.daniel.amorim)
-[![yt](https://user-images.githubusercontent.com/115194365/221065547-df25300d-b7b4-4f09-a2bf-669f13093449.jpg)
-](https://www.youtube.com/@dsa_science)
-
-<hr>
-
 <div>
+  <a href="https://www.youtube.com/@dsa_science">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://medium.com/@dev.daniel.amorim">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/dev-daniel-amorim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/dev-daniel-amorim/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+   <a href="*">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
 

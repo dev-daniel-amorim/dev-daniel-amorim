@@ -14,11 +14,17 @@ Me acompanhe nas redes:
 [![yt](https://user-images.githubusercontent.com/115194365/221065547-df25300d-b7b4-4f09-a2bf-669f13093449.jpg)
 ](https://www.youtube.com/@dsa_science)
 
-
 <hr>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
+<div>
+  <a href="https://www.linkedin.com/in/dev-daniel-amorim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+  
+  
+  
+  
 ## SQL Server
   - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 

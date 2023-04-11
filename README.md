@@ -48,7 +48,7 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 <details>
 <summary>
-## Data science
+  <h2>Data science</h2>
 </summary>
 
   

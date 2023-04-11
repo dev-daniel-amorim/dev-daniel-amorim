@@ -25,10 +25,7 @@ Me acompanhe nas redes:
   </a>
 </div>
 
-  
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>  
-  
-  
+
 ## SQL Server
   - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 

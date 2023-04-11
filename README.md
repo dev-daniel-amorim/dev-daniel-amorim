@@ -7,6 +7,9 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 <br>
 <hr>
 
+<img src="https://github-readme-stats.vercel.app/api?username={dev-daniel-amorim}&theme=blue-green">
+
+
 <div>
   <a href="https://www.youtube.com/@dsa_science">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">

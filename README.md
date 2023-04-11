@@ -49,7 +49,7 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 <details>
 <summary>
   <h2>Data science</h2>
-  <hr size=10>
+  <hr size=0.1>
 </summary>
 
   

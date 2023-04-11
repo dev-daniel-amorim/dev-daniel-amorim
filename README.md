@@ -48,6 +48,7 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 ## Data science
 <details>
+  
 ### Data Science (Classificação)
 - [Análise de risco](https://github.com/dev-daniel-amorim/DS-Analise_de_risco_II/blob/main/README.md)
 

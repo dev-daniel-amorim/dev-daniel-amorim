@@ -2,7 +2,7 @@
 <details>
   <summary>Sobre mim...</summary>
 Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à Ciência de dados, possuo habilidades em Python e bibliotecas relevantes para análise, visualização, exploração, mineração e modelagem de dados além dos conhecimentos em linguagem SQL e outros conhecimentos que somam. Tenho pensamento analítico capaz de analisar dados complexos para geração de insights e possíveis tomadas de decisões de negócios. Estou sempre em busca de conhecimentos, novas técnicas e tecnologias, meu currículo inclui pós-graduação (em andamento) em engenharia e ciência de dados. Neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados, sejam bem-vindos!
-
+<br>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">

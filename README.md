@@ -5,7 +5,6 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 </details>
 <p align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</p>
 <br>
-Me acompanhe nas redes:
 <hr>
 
 <div>

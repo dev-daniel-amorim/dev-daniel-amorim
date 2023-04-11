@@ -9,7 +9,7 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">
 </div>
 
 <div>

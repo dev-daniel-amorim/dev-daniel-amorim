@@ -47,7 +47,7 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
   - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 
 ## Data science
-
+<details>
 ### Data Science (Classificação)
 - [Análise de risco](https://github.com/dev-daniel-amorim/DS-Analise_de_risco_II/blob/main/README.md)
 
@@ -71,3 +71,4 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 - [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
 - [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
+  </details>

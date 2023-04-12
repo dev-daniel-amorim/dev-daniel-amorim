@@ -84,6 +84,6 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 - [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
   </details>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim)
+<center>![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim)</center>
 
-![Quote](https://github.com/dev-daniel-amorim/dev-daniel-amorim/edit/main/README.md.herokuapp.com/quote)
+

@@ -36,11 +36,6 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 <hr>
 
-<details>
-  <summary> ## Blog Posts </summary>
-  [HTML]()
-</details>
-
 ## SQL Server
   - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
@@ -88,5 +83,12 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 - [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
 - [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
   </details>
+  
+<details>
+  <summary><h2>Blog Posts</h2></summary>
+
+  - [HTML]()
+
+</details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim) 

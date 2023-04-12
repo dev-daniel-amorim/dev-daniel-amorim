@@ -36,6 +36,11 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 <hr>
 
+<details>
+  <summary> ## Blog Posts </summary>
+  [HTML]()
+</details>
+
 ## SQL Server
   - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 

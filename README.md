@@ -85,10 +85,3 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
   </details>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim) 
-<p align="center">
-  <div class="text-center">
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim)
-  </div>
-</p>
-
-

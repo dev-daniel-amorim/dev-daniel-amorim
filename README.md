@@ -30,13 +30,7 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   </a>
 </div>
 <hr>
-<!---------------------------------------------------- CONTEÚDOS --------------------------------------------->
 
-<details>
-  <summary> <h2>SQL Language</h2> </summary>
-  
-  - [SQL (Conteúdo voltado para análise de dados)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
-</details>
 <!------------------------------------------------SUMARIO PYTHON --------------------------------------------->
 <details>
   <summary> <h2>Python</h2> </summary>
@@ -50,17 +44,27 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   <hr>
 </details>
 
-## API Openai (Chat GPT)
-  - [Projetos com API da Openai](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
-
-## Extras
-  - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
-
+<!---------------------------------------------------- SQL----- --------------------------------------------->
 <details>
-  <summary>
-    <h2>Data science</h2>
-    <hr size=0,1>
-  </summary>
+  <summary> <h2>SQL Language</h2> </summary>
+  
+  - [SQL (Conteúdo voltado para análise de dados)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+  
+  <hr>
+</details>
+
+<!------------------------------------------------CHAT gpt --------------------------------------------------->
+<details>
+  <summary> <h2>API Openai (Chat GPT)</h2> </summary>
+  
+  - [Projetos com API da Openai](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
+  
+  <hr>
+</details>
+  
+<!------------------------------------------------AD E DS----------------------------------------------------->
+<details>
+  <summary> <h2>Análise de dados e Data science</h2> </summary>
 
   
 ### Data Science (Classificação)
@@ -86,7 +90,19 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 
 - [Holdout/Cross Validation](https://github.com/dev-daniel-amorim/ML-Tecnicas)
 - [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
+  <hr>
 </details>
+
+<!------------------------------------------------DIVERSOS --------------------------------------------------->
+<details>
+  <summary> <h2>Conteúdos diversos</h2> </summary>
+
+  - [Conteúdos dos mais variádos temas](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
+
+  <hr>
+</details>
+
+<!------------------------------------------------BLOG POSTS-------------------------------------------------->
 <details>
   <summary><h2>Blog Posts</h2></summary>
 

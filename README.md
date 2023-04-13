@@ -36,8 +36,8 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 
 <hr>
 
-## SQL Server
-  - [SQL Server (Conteúdo voltado para Data Science)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+## SQL Language
+  - [SQL (Conteúdo voltado para análise de dados)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 ## Python
   - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)

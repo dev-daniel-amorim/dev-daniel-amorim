@@ -1,19 +1,15 @@
 <h2>Daniel S. Amorim</h2>
+
 <details>
   <summary>Sobre mim...</summary>
 Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me dedico à Ciência de dados, possuo habilidades em Python e bibliotecas relevantes para análise, visualização, exploração, mineração e modelagem de dados além dos conhecimentos em linguagem SQL e outros conhecimentos que somam. Tenho pensamento analítico capaz de analisar dados complexos para geração de insights e possíveis tomadas de decisões de negócios. Estou sempre em busca de conhecimentos, novas técnicas e tecnologias, meu currículo inclui pós-graduação (em andamento) em engenharia e ciência de dados. Neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados, sejam bem-vindos!
-<br>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">
-</div>  
-  
 </details>
-<p align="center"><h2>"Conhecimento quanto mais se divide mais ele se multiplica!"</h2></p>
-<br>
-<hr>
 
-<div>
+<h3 align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</h3>
+<br>
+<!----------------------------------------------- BOTOES DE LINKS --------------------------------------------->
+<hr>
+<div align="center">
   <a href="https://www.youtube.com/@dsa_science">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
@@ -33,18 +29,26 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
 <hr>
+<!---------------------------------------------------- CONTEÚDOS --------------------------------------------->
 
-## SQL Language
+<details>
+  <summary> <h2>SQL Language</h2> </summary>
+  
   - [SQL (Conteúdo voltado para análise de dados)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
-
-## Python
+</details>
+<!------------------------------------------------SUMARIO PYTHON --------------------------------------------->
+<details>
+  <summary> <h2>Python</h2> </summary>
+  
   - [Selenium e Web Scraping](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
 
   - [Pandas e análises de dados](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   
   - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
+  
+  <hr>
+</details>
 
 ## API Openai (Chat GPT)
   - [Projetos com API da Openai](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
@@ -89,5 +93,10 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   - [HTML]()
 
 </details>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">
+</div>  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim) 

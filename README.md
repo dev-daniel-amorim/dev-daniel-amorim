@@ -131,3 +131,5 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim) 
  </div> 
+ 
+ ![snake gif](https://github.com//dev-daniel-amorim/blob/output/github-contribution-grid-snake.svg)

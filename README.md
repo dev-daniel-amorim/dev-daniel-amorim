@@ -1,7 +1,7 @@
 <h2>Daniel S. Amorim</h2>
 <details>
   <summary>Sobre mim...</summary>
-Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à Ciência de dados, possuo habilidades em Python e bibliotecas relevantes para análise, visualização, exploração, mineração e modelagem de dados além dos conhecimentos em linguagem SQL e outros conhecimentos que somam. Tenho pensamento analítico capaz de analisar dados complexos para geração de insights e possíveis tomadas de decisões de negócios. Estou sempre em busca de conhecimentos, novas técnicas e tecnologias, meu currículo inclui pós-graduação (em andamento) em engenharia e ciência de dados. Neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados, sejam bem-vindos!
+Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me dedico à Ciência de dados, possuo habilidades em Python e bibliotecas relevantes para análise, visualização, exploração, mineração e modelagem de dados além dos conhecimentos em linguagem SQL e outros conhecimentos que somam. Tenho pensamento analítico capaz de analisar dados complexos para geração de insights e possíveis tomadas de decisões de negócios. Estou sempre em busca de conhecimentos, novas técnicas e tecnologias, meu currículo inclui pós-graduação (em andamento) em engenharia e ciência de dados. Neste repositório compartilho com vocês meus projetos e estudos na área, estou sempre atualizando e criando novos tutoriais de minha autoria sobre diversos assuntos relacionados, sejam bem-vindos!
 <br>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
@@ -9,7 +9,7 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
 </div>  
   
 </details>
-<p align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</p>
+<p align="center"><h2>"Conhecimento quanto mais se divide mais ele se multiplica!"</h2></p>
 <br>
 <hr>
 

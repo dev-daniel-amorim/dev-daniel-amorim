@@ -40,14 +40,14 @@ Graduado em engenharia da computação, apaixonado por dados, hoje me dedico à 
   - [SQL (Conteúdo voltado para análise de dados)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
 
 ## Python
-  - [Selenium e Web Scraping.](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
+  - [Selenium e Web Scraping](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
 
-  - [Pandas e análises de dados.](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
+  - [Pandas e análises de dados](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   
   - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
 
-## Chat GPT
-  - [Meus conteúdos sobre Chat GPT](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
+## API Openai (Chat GPT)
+  - [Projetos com API da Openai](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
 
 ## Extras
   - [Conteúdos extras (Python, SQL, bibliotecas e mais)](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)

@@ -124,9 +124,10 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 <hr>
 
 <!------------------------------------------------RODAPE------------------------------------------------------>
-<div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">
-</div>  
+<br> 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim) 
+ </div> 

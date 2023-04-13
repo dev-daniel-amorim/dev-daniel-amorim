@@ -33,7 +33,7 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 
 <!------------------------------------------------SUMARIO PYTHON --------------------------------------------->
 <details>
-  <summary> <h2>Python</h2> </summary>
+  <summary> <h3>Python</h3> </summary>
   
   - [Selenium e Web Scraping](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
 
@@ -43,28 +43,35 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   
   <hr>
 </details>
+:point_up: Meus conteúdos em Python, Pandas, Selenium, Web Scraping, automação web...
+<hr>
+
 
 <!---------------------------------------------------- SQL----- --------------------------------------------->
 <details>
-  <summary> <h2>SQL Language</h2> </summary>
+  <summary> <h3>SQL Language</h3> </summary>
   
   - [SQL (Conteúdo voltado para análise de dados)](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
   
   <hr>
 </details>
+:point_up: SQL voltado para ánalise de dados e data science...
+<hr>
 
 <!------------------------------------------------CHAT gpt --------------------------------------------------->
 <details>
-  <summary> <h2>API Openai (Chat GPT)</h2> </summary>
+  <summary> <h3>API Openai (Chat GPT)</h3> </summary>
   
   - [Projetos com API da Openai](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
   
   <hr>
 </details>
-  
+:point_up: Projetos interessantes em Python com API da Openai...
+<hr>
+
 <!------------------------------------------------AD E DS----------------------------------------------------->
 <details>
-  <summary> <h2>Análise de dados e Data science</h2> </summary>
+  <summary> <h3>Análise de dados e Data science</h3> </summary>
 
   
 ### Data Science (Classificação)
@@ -92,24 +99,31 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 - [Ajuste de Hiperparâmetros](https://github.com/dev-daniel-amorim/ML-Ajustes_Hiperparametros/blob/main/README.md)
   <hr>
 </details>
+:point_up: Material de Data Science...
+<hr>
 
 <!------------------------------------------------DIVERSOS --------------------------------------------------->
 <details>
-  <summary> <h2>Conteúdos diversos</h2> </summary>
+  <summary> <h3>Conteúdos diversos</h3> </summary>
 
   - [Conteúdos dos mais variádos temas](https://github.com/dev-daniel-amorim/Python-Varios_temas/blob/main/README.md)
 
   <hr>
 </details>
+:point_up: Conteúdos sobre assuntos variados é aqui...
+<hr>
 
 <!------------------------------------------------BLOG POSTS-------------------------------------------------->
 <details>
-  <summary><h2>Blog Posts</h2></summary>
+  <summary><h3>Blog Posts</h3></summary>
 
   - [HTML]()
 
 </details>
+:point_up: Meus posts, artigos e tutoriais...
+<hr>
 
+<!------------------------------------------------RODAPE------------------------------------------------------>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">

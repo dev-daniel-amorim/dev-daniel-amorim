@@ -59,7 +59,7 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   
   <hr>
 </details>
-:point_up: SQL voltado para ánalise de dados e data science...
+:point_up: Estudo de banco de dados, Data warehouse, Data lake e muito mais...
 <hr>
 
 <!------------------------------------------------CHAT gpt --------------------------------------------------->

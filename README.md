@@ -39,9 +39,9 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 
   - [Pandas e análises de dados](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
   
-  - [Módulos Pathlib, Dotenv e OS]()
-  
   - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
+  
+  - [Alguns módulos e bibliotecas Python](https://github.com/dev-daniel-amorim/Topico-Modulos-e-bibliotecas/blob/main/README.md)
   
   <hr>
 </details>

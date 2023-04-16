@@ -35,9 +35,11 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 <details>
   <summary> <h3>Python</h3> </summary>
   
-  - [Selenium e Web Scraping](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
+  - [Selenium e web scraping](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
 
   - [Pandas e análises de dados](https://github.com/dev-daniel-amorim/Analise_de_dados-Ferramentas/blob/main/README.md)
+  
+  - []()
   
   - [Automação de processos](https://github.com/dev-daniel-amorim/Topico-Automacao_de_processos)
   

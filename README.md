@@ -49,13 +49,13 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 <hr>
 
 
-<!---------------------------------------------------- SQL----- --------------------------------------------->
+<!------------------------------------------------- Banco de dados-------------------------------------------->
 <details>
   <summary> <h3> Banco de dados </h3> </summary>
   
   - [SQL Language](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
   
-  - [Data Warehouse]()
+  - [Data Warehouse](https://github.com/dev-daniel-amorim/Topico_DW/blob/main/README.md)
   
   <hr>
 </details>

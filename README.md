@@ -125,6 +125,7 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   - [Conectando aplicações com SQL Server](https://medium.com/@dev.daniel.amorim/jupyter-notebook-sql-server-1af8eb22cf02)
   - [Etapas de projetos de análise de dados](https://medium.com/@dev.daniel.amorim/iniciando-projeto-de-an%C3%A1lise-de-dados-5db12f935537)
   - [Criando bibliotecas com Pypi](https://medium.com/@dev.daniel.amorim/como-criar-biblioteca-python-pypi-343219656838)
+  - [Chat GPT fazendo análise de dados em Python](https://medium.com/@dev.daniel.amorim/chat-gpt-programando-em-python-c2a1802fe959)
 
 </details>
 :point_up: Meus posts, artigos e tutoriais...

@@ -59,7 +59,7 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   
   <hr>
 </details>
-:point_up: Estudo de banco de dados, Data warehouse, Data lake e muito mais...
+:point_up: Estudo de banco de dados, Data warehouse, Data lake, business intelligence e mais...
 <hr>
 
 <!------------------------------------------------CHAT gpt --------------------------------------------------->

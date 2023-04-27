@@ -45,7 +45,7 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
   
   <hr>
 </details>
-:point_up: Meus conteúdos em Python, Pandas, Selenium, Web Scraping, automação web...
+:point_up: Conteúdos em Python, Pandas, Dask (Big data), Selenium, Web Scraping, automação web...
 <hr>
 
 

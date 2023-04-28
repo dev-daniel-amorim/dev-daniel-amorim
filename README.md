@@ -75,7 +75,9 @@ Graduado em engenharia da computação desde 2010, apaixonado por dados, hoje me
 
 <!------------------------------------------------AD E DS----------------------------------------------------->
 <details>
-  <summary> <h3>Análise de dados e Data science</h3> </summary>
+  <summary> <h3>Análise de dados</h3> </summary>
+  
+  - [Tratamento de dados](https://github.com/dev-daniel-amorim/Topico-Analise_dados/blob/main/README.md)
 
   
 ### Data Science (Classificação)

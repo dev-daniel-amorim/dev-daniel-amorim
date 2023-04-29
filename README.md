@@ -1,6 +1,6 @@
 <h2>Daniel S. Amorim</h2>
 
-Abaixo meu potfólio, tudo que eu sei, que entendo, todo conteúdo criado por mim, sem cópia, sem plágio, conteúdo verdadeiramente original.  
+Abaixo meu potfólio, tudo que eu sei, que entendo, todo conteúdo criado por mim, sem cópia, sem plágio, conteúdo verdadeiramente original, se não entendo do assunto então não encontrará sobre ele aqui!  
 
 <h3 align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</h3>
 <br>

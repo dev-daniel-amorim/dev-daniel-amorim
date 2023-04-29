@@ -1,8 +1,8 @@
 <h2>Daniel S. Amorim</h2>
 
-Abaixo meu potfólio, tudo que eu sei, que entendo, todo conteúdo criado por mim, sem cópia, sem plágio, conteúdo verdadeiramente original, se não entendo do assunto então não encontrará sobre ele aqui! 
+Abaixo está meu potfólio, com todo o conhecimento que possuo e entendo, todo conteúdo criado por mim, sem cópia ou plágio, verdadeiramente original. Caso eu não tenha conhecimento sobre algum assunto, não encontrará informações a respeito aqui!
 
-Sou engenheiro de computação, MBA em ciência de dados, sei muito sobre SQL, Python, Micro controladores, tenho vários certificados e tudo que as empresas e recrutadores almejam e querem ler por aqui, não seu falar inglês mas sei ler datasheet de componentes eletronicos, inglês técnico, e se for preciso leio chinês e japones.
+Sou engenheiro de computação, MBA em ciência de dados, sei muito e domino sobre SQL, Python, análise de dados, Micro controladores, circuitos elétricos, tenho vários certificados e sei muito sobre todos assuntos abordados aqui, não entendo e nós analistas não somos obrigados a entender sobre qualquer mercado, mas sei observar dados, tratar, limpar, minerar, analisar e com base nisso extrair insights para tomadas de decisões sobre qualquer ramo empresarial. Não sei falar inglês mas sei ler e compreender inglês técnico e manuais chineses e japoneses desde que precise entender sobre componentes eletrônicos.
 
 <h3 align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</h3>
 <br>

@@ -1,9 +1,6 @@
 <h2>Daniel S. Amorim</h2>
 
-Abaixo está meu potfólio, com todo o conhecimento que possuo e entendo. Todo conteúdo criado por mim, sem cópia ou plágio, verdadeiramente original. Caso eu não tenha conhecimento sobre algum assunto, não encontrará informações a respeito aqui!
-
-Sou engenheiro de computação, MBA em ciência de dados, sei muito e domino sobre SQL, Python, análise de dados, micro controladores, circuitos elétricos entre outros. Tenho vários certificados e sei muito sobre todos assuntos abordados aqui. Não sou especialista em mercado, mas sei observar dados, tratar, limpar, minerar e analisar grandes volumes de dados e com base nisso extrair insights para tomadas de decisões sobre qualquer ramo empresarial. Não sei falar inglês mas sei ingles técnico, principalmente quando nescessário.
-Ah, sou muito sincero e honesto.
+Portfólio...
 
 <h3 align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</h3>
 <br>

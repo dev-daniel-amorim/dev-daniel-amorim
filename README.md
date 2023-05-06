@@ -61,9 +61,9 @@ Portfólio...
 
 <!------------------------------------------------CHAT gpt --------------------------------------------------->
 <details>
-  <summary> <h3>API Openai (Chat GPT)</h3> </summary>
+  <summary> <h3>IA e visão computacional</h3> </summary>
   
-  - [Projetos com API da Openai](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
+  - [Projetos com IA e VC](https://github.com/dev-daniel-amorim/Topico-ChatGPT/blob/main/README.md)
   
   <hr>
 </details>

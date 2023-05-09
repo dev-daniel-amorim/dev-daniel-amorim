@@ -52,11 +52,11 @@ Portfólio...
   
   - [SQL Language](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
   
-  - [Data Warehouse](https://github.com/dev-daniel-amorim/Topico_DW/blob/main/README.md)
+  - [Data Warehouse + ETL/ELT + Pentaho](https://github.com/dev-daniel-amorim/Topico_DW/blob/main/README.md)
   
   <hr>
 </details>
-:point_up: Estudo de banco de dados, Data warehouse, Data lake, business intelligence e mais...
+:point_up: Meu conteúdo sobre banco de dados SQL, Data warehouse, Data lake, processos ETL/ELT com Pentaho, business intelligence e mais...
 <hr>
 
 <!------------------------------------------------CHAT gpt --------------------------------------------------->

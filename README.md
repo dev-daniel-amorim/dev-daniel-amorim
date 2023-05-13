@@ -57,7 +57,7 @@ Produzo bastante material didático no youtube como também no Medium (links aba
   
   - [SQL Language](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
   
-  - [Data Warehouse + ETL/ELT + Pentaho](https://github.com/dev-daniel-amorim/Topico_DW/blob/main/README.md)
+  - [Pentaho + Data Warehouse + ETL](https://github.com/dev-daniel-amorim/Topico_DW/blob/main/README.md)
   
   <hr>
 </details>

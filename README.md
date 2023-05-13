@@ -2,7 +2,7 @@
 
 ### Portfólio
 
-Engenheiro de computação desde 2010 e atualmente concluíndo MBA em engenharia e ciência de dados, que é o objetivo principal deste material e o meu foco. Aqui compartilho com vocês meus projetos e estudos nas diversas áreas do conhecimento como Python e suas bibliotecas, banco de dados, estruturas e processos ETL/ELT, inteligência a visão computacional e muito mais. Todo conteúdo encontrado aqui está todo conectado para o bom entendimento de engenharia, análise e ciência de dados, que são as áreas que me idientifico e busco o entendimento profundo. 
+Engenheiro de computação desde 2010 e atualmente concluíndo MBA em engenharia e ciência de dados, que é o objetivo principal deste material e o meu foco. Aqui compartilho com vocês meus projetos e estudos nas diversas áreas do conhecimento como Python e suas bibliotecas, banco de dados, estruturas e processos ETL/ELT, inteligência e visão computacional e muito mais. Todo conteúdo encontrado aqui está todo conectado para o bom entendimento de engenharia, análise e ciência de dados, que são as áreas que me idientifico e busco o entendimento profundo. 
 
 Produzo bastante material didático no youtube como também no Medium (links abaixo), pois já fui docente na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 

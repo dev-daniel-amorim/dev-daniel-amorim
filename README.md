@@ -135,7 +135,9 @@ Produzo bastante material didático no youtube como também no Medium (links aba
 :point_up: Meus posts, artigos e tutoriais...
 <hr>
 
-# Parte da minha vida destinada a Desenvolvimento de hardware
+
+<!------------------------------------------------hardware-------------------------------------------------->
+# Desenvolvimento de hardware
 
 <details>
   <summary><h3>Hardware</h3></summary>
@@ -143,7 +145,7 @@ Produzo bastante material didático no youtube como também no Medium (links aba
   - [Esp32 + Sendor de corrente](https://medium.com/@dev.daniel.amorim/balanceamento-de-classes-6eca350c465a)
 
 </details>
-:point_up: Meus posts, artigos e tutoriais...
+:point_up: Parte da minha vida destinada a Desenvolvimento de hardware...
 <hr>
 
 

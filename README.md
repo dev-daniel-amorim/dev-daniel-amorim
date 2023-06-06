@@ -135,16 +135,24 @@ Produzo bastante material didático no youtube como também no Medium (links aba
 :point_up: Meus posts, artigos e tutoriais...
 <hr>
 
+# Parte da minha vida destinada a Desenvolvimento de hardware
+
+<details>
+  <summary><h3>Hardware</h3></summary>
+
+  - [Esp32 + Sendor de corrente](https://medium.com/@dev.daniel.amorim/balanceamento-de-classes-6eca350c465a)
+
+</details>
+:point_up: Meus posts, artigos e tutoriais...
+<hr>
+
+
 <!------------------------------------------------RODAPE------------------------------------------------------>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dev-daniel-amorim&theme=blue-green">
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-daniel-amorim&theme=blue-green">
 <br> 
   
-# Parte da minha vida destinada a hardware
-  
-  
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/dev-daniel-amorim) 
  </div> 
  

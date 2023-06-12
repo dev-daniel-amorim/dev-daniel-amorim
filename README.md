@@ -142,7 +142,7 @@ Produzo bastante material didático no youtube como também no Medium (links aba
 <details>
   <summary><h3>Hardware</h3></summary>
 
-  - [Esp32 + Sendor de corrente](https://medium.com/@dev.daniel.amorim/balanceamento-de-classes-6eca350c465a)
+  - [Esp32 + Xbee (Protocolo Zigbee)](https://github.com/dev-daniel-amorim/xbee_aulas)
 
 </details>
 :point_up: Parte da minha vida destinada a Desenvolvimento de hardware...

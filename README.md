@@ -142,7 +142,7 @@ Produzo bastante material didático no youtube como também no Medium (links aba
 <details>
   <summary><h3>Hardware</h3></summary>
 
-  - [Esp32 + Xbee (Protocolo Zigbee)](https://github.com/dev-daniel-amorim/xbee_aulas)
+  - [Conteúdos comunicação Zigbee](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/README.md)
 
 </details>
 :point_up: Parte da minha vida destinada a Desenvolvimento de hardware...

@@ -143,6 +143,7 @@ Produzo bastante material didático no youtube como também no Medium (links aba
   <summary><h3>Hardware</h3></summary>
 
   - [Comunicação Zigbee (Esp32 + Xbee modules)](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/README.md)
+  - [Projeto de automação residencial Hi Home (2010)](https://github.com/dev-daniel-amorim/Automacao_residencial/blob/main/README.md)
 
 </details>
 :point_up: Parte da minha vida destinada a Desenvolvimento de hardware...

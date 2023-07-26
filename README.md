@@ -149,6 +149,18 @@ Produzo bastante material didático no youtube como também no Medium (links aba
 :point_up: Parte da minha vida destinada a Desenvolvimento de hardware...
 <hr>
 
+<!------------------------------------------------CERTIFICADOS POSTS-------------------------------------------------->
+<details>
+  <summary><h3>Certificados</h3></summary>
+
+  - [Altium Designer](https://www.udemy.com/certificate/UC-902e4132-419b-4588-b664-29dd2266ffe8/)
+
+</details>
+:point_up: Meus certificados...
+<hr>
+
+
+
 
 <!------------------------------------------------RODAPE------------------------------------------------------>
 <div align="center">

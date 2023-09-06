@@ -155,6 +155,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 
   - [Comunicação Zigbee (Esp32 + Xbee modules)](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/README.md)
   - [Projeto de automação residencial Hi Home (2010)](https://github.com/dev-daniel-amorim/Automacao_residencial/blob/main/README.md)
+  - [Projetos Lorawan (Em breve postarei conteúdos em parceria com a Radioenge)]()
 
 </details>
 :point_up: Parte da minha vida destinada a Desenvolvimento de hardware...
@@ -167,7 +168,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   - [Altium Designer](https://www.udemy.com/certificate/UC-902e4132-419b-4588-b664-29dd2266ffe8/)
 
 </details>
-:point_up: Meus certificados...
+:point_up: Meus certificados (Assim que tiver um tempinho irei adicionar todos)...
 <hr>
 
 

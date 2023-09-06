@@ -14,8 +14,8 @@ Aqui compartilho com vocês meus projetos e estudos nas diversas áreas do conhe
 Todo conteúdo encontrado aqui está todo conectado para o bom entendimento de engenharia, 
 análise e ciência de dados, que são as áreas que me idientifico e busco o entendimento profundo. 
 
-Produzo bastante material didático no youtube como também no Medium (links abaixo), pois já f
-ui docente na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
+Produzo bastante material didático no youtube como também no Medium (links abaixo), pois já fui docente 
+na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 
 
 <h3 align="center">"Conhecimento quanto mais se divide mais ele se multiplica!"</h3>

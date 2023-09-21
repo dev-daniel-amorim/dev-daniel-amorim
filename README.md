@@ -67,7 +67,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   <summary> <h3> Banco de dados </h3> </summary>
   
   - [SQL Language](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
-  - [ORACLE PL/SQL](https://github.com/dev-daniel-amorim/Sql_Server/blob/main/README.md)
+  - [ORACLE PL/SQL e APEX](https://github.com/dev-daniel-amorim/oracle_plsql/blob/main/README.md)
   - [Pentaho + Data Warehouse + ETL](https://github.com/dev-daniel-amorim/Topico_DW/blob/main/README.md)
   
   <hr>

@@ -72,7 +72,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   
   <hr>
 </details>
-:point_up: Meu conteúdo sobre banco de dados SQL, Data warehouse, Data lake, processos ETL/ELT com Pentaho, business intelligence e mais...
+:point_up: Meu conteúdo sobre banco de dados SQL, Oracle, PLSQL, APEX, Data warehouse, Data lake, processos ETL/ELT com Pentaho, business intelligence e mais...
 <hr>
 
 <!------------------------------------------------CHAT gpt --------------------------------------------------->

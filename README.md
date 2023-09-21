@@ -166,6 +166,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   <summary><h3>Certificados</h3></summary>
 
   - [Altium Designer](https://www.udemy.com/certificate/UC-902e4132-419b-4588-b664-29dd2266ffe8/)
+  - [FreeRTOS](https://www.udemy.com/certificate/UC-5f6138cc-9315-49f8-bdf8-8b8bfd094d55/)
 
 </details>
 :point_up: Meus certificados (Assim que tiver um tempinho irei adicionar todos)...

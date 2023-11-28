@@ -8,6 +8,7 @@ conhecimentos em Hardware/firmware, pois desde 2010 me envolvo em desenvolviment
 aperfeiçoei minhas habilidades em microcontroladores (desde 8051, Atmega, Esp32 e outros), em tecnologias de 
 comunicação Zigbee, Lora, Lorawan (bibliotecas desenvolvidas), desenvolvimento e projetos de circuitos elétricos (Eagle, Altium Designer, 
 Kicad), prototipagem e P&D.
+
 Atualmente trabalhando na UMTI-JP (Unidade Municipal de Tecnologia da Informação João Pessoa), onde sou engenheiro responsável por P&D de projetos
 Lora, Lorawan e desenvolvimentos de soluções IoT, em paralelo desenvolvendo um projeto pioneiro de repetidor Lorawan baseado em Esp32 para uma
 empresa de tecnologia do estado.

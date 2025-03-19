@@ -158,7 +158,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   <summary><h3>Hardware</h3></summary>
 
   - [Projeto RFID UHF 800-900mHz)](https://github.com/dev-daniel-amorim/RFID_UHF/blob/main/README.md)
-  - [Projeto RFID UHF 800-900mHz (Atualizado)](https://github.com/dev-daniel-amorim/RFID_UHF/blob/main/README.md)
+  - [Projeto RFID UHF 800-900mHz (Atualizado)](https://github.com/dev-daniel-amorim/RFID_UHF_-Atualizacao-/blob/main/README.md)
   - [Comunicação Zigbee (Esp32 + Xbee modules)](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/README.md)
   - [Projeto de automação residencial Hi Home (2010)](https://github.com/dev-daniel-amorim/Automacao_residencial/blob/main/README.md)
   - [Projetos Lorawan (Em breve postarei conteúdos em parceria com a Radioenge)]()

@@ -67,7 +67,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 
 <!------------------------------------------------SUMARIO ORACLE APEX --------------------------------------------->
 <details>
-  <summary> <h3>Python</h3> </summary>
+  <summary> <h3>Oracle Apex</h3> </summary>
   
   - [Projeto Patrimônio com leitor RFID](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
   

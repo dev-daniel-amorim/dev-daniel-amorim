@@ -65,6 +65,17 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 :point_up: Conteúdos em Python, Pandas, Dask (Big data), Selenium, Web Scraping, automação web...
 <hr>
 
+<!------------------------------------------------SUMARIO ORACLE APEX --------------------------------------------->
+<details>
+  <summary> <h3>Python</h3> </summary>
+  
+  - [Projeto Patrimônio com leitor RFID](https://github.com/dev-daniel-amorim/Topico-Selenium_e_WS/blob/main/README.md)
+  
+  <hr>
+</details>
+:point_up: Conteúdos desenvolvidos em Oracle Apex....
+<hr>
+
 
 <!------------------------------------------------- Banco de dados-------------------------------------------->
 <details>

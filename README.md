@@ -70,7 +70,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   <summary> <h3>Oracle Apex</h3> </summary>
   
   - [Projeto Patrimônio com leitor RFID](https://github.com/dev-daniel-amorim/oracle_apex_patrimonio/blob/main/README.md)
-  - [Tutoriais Oracle Apex](https://github.com/dev-daniel-amorim/oracle_apex_patrimonio/blob/main/README.md)
+  - [Tutoriais Oracle Apex](https://github.com/dev-daniel-amorim/tutoriais_apex/blob/main/README.md)
      
   <hr>
 </details>

@@ -27,7 +27,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 <!----------------------------------------------- BOTOES DE LINKS --------------------------------------------->
 <hr>
 <div align="center">
-  <a href="https://www.youtube.com/@dsa_science">
+  <a href="https://www.youtube.com/channel/UCehclUNu2kEJSLXGu29sOmQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   <a href="https://medium.com/@dev.daniel.amorim">

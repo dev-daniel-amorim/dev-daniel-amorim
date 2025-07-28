@@ -2,17 +2,16 @@
 
 ### Portfólio
 
-Graduado em engenharia da computação, pós-graduado em petróleo e gás natural e atualmente cursando MBA 
-em engenharia e ciência de dados. Sempre me envolvi em conhecer tecnologias, possuo profundos 
+Graduado em engenharia da computação, pós-graduado em petróleo e gás natural e MBA em engenharia e ciência de dados. 
+Sempre me envolvi em conhecer tecnologias, possuo profundos 
 conhecimentos em Hardware/firmware, pois desde 2010 me envolvo em desenvolvimento de projetos onde 
-aperfeiçoei minhas habilidades em microcontroladores (desde 8051, Atmega, Esp32 e outros), em tecnologias de 
+aperfeiçoei minhas habilidades em microcontroladores (desde 8051, Atmega, Xtensa LX6 ou LX7 (Esp32) e outros), em tecnologias de 
 comunicação Zigbee, Lora, Lorawan (bibliotecas desenvolvidas), desenvolvimento e projetos de circuitos elétricos (Eagle, Altium Designer, 
 Kicad), prototipagem e P&D.
 
 Atualmente trabalhando na UMTI-JP (Unidade Municipal de Tecnologia da Informação João Pessoa), onde sou engenheiro responsável por P&D de projetos
 Lora, Lorawan e desenvolvimentos de soluções IoT, em paralelo desenvolvendo um projeto pioneiro de repetidor Lorawan baseado em Esp32 para uma
 empresa de tecnologia do estado.
-
 
 Aqui compartilho com vocês meus projetos e estudos nas diversas áreas do conhecimento. 
 Todo conteúdo encontrado aqui está todo conectado para o bom entendimento de engenharia de hardware, 

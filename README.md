@@ -178,6 +178,18 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 :point_up: Parte da minha vida destinada a Desenvolvimento de hardware...
 <hr>
 
+<!----------------------------------------------- FLYSKY -------------------------------------------------->
+# Tutoriais rádios RC Flysky e receptor
+
+<details>
+  <summary><h3>Transmissores e receptores RC</h3></summary>
+
+  - [Receptor RC comunicando com esp32 via iBus](https://github.com/dev-daniel-amorim/ReceptorRc_esp32_Ibus)
+
+</details>
+:point_up: Pprojetos legais pra entender comunicação de rádios e receptores RC e comunicação com esp32...
+<hr>
+
 <!------------------------------------------------CERTIFICADOS POSTS-------------------------------------------------->
 <details>
   <summary><h3>Certificados</h3></summary>

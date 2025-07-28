@@ -175,11 +175,8 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   - [Projetos Lorawan (Em breve postarei conteúdos em parceria com a Radioenge)]()
 
 </details>
-:point_up: Parte da minha vida destinada a Desenvolvimento de hardware...
-<hr>
 
 <!----------------------------------------------- FLYSKY -------------------------------------------------->
-# Tutoriais rádios RC Flysky e receptor
 
 <details>
   <summary><h3>Transmissores e receptores RC</h3></summary>
@@ -187,7 +184,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   - [Receptor RC comunicando com esp32 via iBus](https://github.com/dev-daniel-amorim/ReceptorRc_esp32_Ibus)
 
 </details>
-:point_up: Pprojetos legais pra entender comunicação de rádios e receptores RC e comunicação com esp32...
+:point_up: Parte da minha vida destinada a estudo e desenvolvimento de hardware...
 <hr>
 
 <!------------------------------------------------CERTIFICADOS POSTS-------------------------------------------------->

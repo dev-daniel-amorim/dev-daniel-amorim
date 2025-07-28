@@ -48,6 +48,8 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 <hr>
 
 <!------------------------------------------------SUMARIO PYTHON --------------------------------------------->
+# Programação, análise de dados, banco de dados e IA
+
 <details>
   <summary> <h3>Python</h3> </summary>
   
@@ -166,14 +168,15 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 # Desenvolvimento de hardware
 
 <details>
-  <summary><h3>Hardware</h3></summary>
+  <summary><h3>Projetos com desenvolvimento de Hardware</h3></summary>
 
   - [Projeto RFID UHF 800-900mHz](https://github.com/dev-daniel-amorim/RFID_UHF/blob/main/README.md)
   - [Comunicação Zigbee (Esp32 + Xbee modules)](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/README.md)
   - [Projeto de automação residencial Hi Home (2010)](https://github.com/dev-daniel-amorim/Automacao_residencial/blob/main/README.md)
   - [Projetos Lorawan (Em breve postarei conteúdos em parceria com a Radioenge)]()
-
 </details>
+:point_up: Parte da minha vida destinada a estudo e desenvolvimento de hardware...
+<hr>
 
 <!----------------------------------------------- FLYSKY -------------------------------------------------->
 
@@ -183,10 +186,11 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   - [Receptor RC comunicando com esp32 via iBus](https://github.com/dev-daniel-amorim/ReceptorRc_esp32_Ibus)
 
 </details>
-:point_up: Parte da minha vida destinada a estudo e desenvolvimento de hardware...
+:point_up: Projetos e estudos sobre RC, transmissores e receptores e comunicação com esp32...
 <hr>
 
 <!------------------------------------------------CERTIFICADOS POSTS-------------------------------------------------->
+# Diplomas e certificados
 <details>
   <summary><h3>Certificados</h3></summary>
 

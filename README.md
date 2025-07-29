@@ -183,7 +183,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
 <details>
   <summary><h3>Transmissores e receptores RC</h3></summary>
 
-  - [Receptor RC comunicando com esp32 via iBus](https://github.com/dev-daniel-amorim/ReceptorRc_esp32_Ibus)
+  - [Protocolo IBUS - Comunicando transmissor RC com ESP32](https://github.com/dev-daniel-amorim/ReceptorRc_esp32_Ibus)
 
 </details>
 :point_up: Projetos e estudos sobre RC, transmissores e receptores e comunicação com esp32...

@@ -33,7 +33,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   <a href="https://www.linkedin.com/in/dev-daniel-amorim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/dev-daniel-amorim/">
+  <a href="https://www.linkedin.com/in/dev-daniel-amorim/](https://www.instagram.com/daniels.amorim?igsh=MXF5aXdlZzQ3a2tuMA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://contate.me/devdanielamorim">

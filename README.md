@@ -171,7 +171,7 @@ na área de TI e até hoje me sinto realizado em compartilhar conhecimentos.
   - [Projeto RFID UHF 800-900mHz](https://github.com/dev-daniel-amorim/RFID_UHF/blob/main/README.md)
   - [Comunicação Zigbee (Esp32 + Xbee modules)](https://github.com/dev-daniel-amorim/gateway_zigbee/blob/main/README.md)
   - [Projeto de automação residencial Hi Home (2010)](https://github.com/dev-daniel-amorim/Automacao_residencial/blob/main/README.md)
-  - [Projeto O-Mouse: mouse para paraplégicos (Em breve postarei conteúdos em parceria com a Radioenge)]()
+  - [Projeto O-Mouse: mouse para paraplégicos.](https://github.com/dev-daniel-amorim/0-mouse/blob/main/README.md)
 </details>
 :point_up: Parte da minha vida destinada a estudo e desenvolvimento de hardware...
 <hr>
